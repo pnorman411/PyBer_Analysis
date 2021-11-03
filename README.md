@@ -10,9 +10,11 @@ As a data analyst with a python-based ridesharing app company, I was tasked with
 
 The total rides and number of drivers in the urban setting far exceed the suburban and rural totals with 1,625 total rides and 2,405 total drivers.  The total rides for suburban and rural were 625 and 125 with 490 and 78 drivers respectively.  The average fare per ride and per driver was the lowest in the urban setting at $24.53 per ride and $16.57 per driver, while the rural averages were the highest at $34.62 per ride and $55.49 per driver.  With the highest volume of rides, the urban setting produced the highest total fares over four months grossing $39,854.38.  Suburban totals for the same timeframe were $19,356.33, and although rural fares averaged the highest per ride and per driver rate, the total fares grossed $4,327.93.
 
+![PyBer_fare_summary](https://user-images.githubusercontent.com/90982811/140105247-039afa18-1548-49a6-8ab6-d53c88eb07c5.png)
 
 ### Weekly Fare by City Type
 
+![ChallengeFig](https://user-images.githubusercontent.com/90982811/140105280-c85d2085-bc2f-4d96-8234-f9d88f340808.png)
 
 ## Summary
 
